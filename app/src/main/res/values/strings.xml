@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HandWrittenToTextConverter</string>
+    <string name="title_activity_feature">feature</string>
+    <string name="title_activity_all_text">AllText</string>
+    <string name="title_activity_tts">tts</string>
+    <string name="title_activity_starting_activity">starting_activity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_starting">Starting</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_text_scan">TextScan</string>
+    <string name="title_activity_text_to_speech">TextToSpeech</string>
+    <string name="title_activity_text_ts">TextTS</string>
+</resources>
